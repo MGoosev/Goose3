@@ -1,0 +1,180 @@
+c:\users\afwadmin\documents\visual studio 2015\VoteSystemCsharp\GymTuto\GymTuto\bin\Debug\GymTuto.exe.config
+c:\users\afwadmin\documents\visual studio 2015\VoteSystemCsharp\GymTuto\GymTuto\bin\Debug\GymTuto.exe
+c:\users\afwadmin\documents\visual studio 2015\VoteSystemCsharp\GymTuto\GymTuto\bin\Debug\GymTuto.pdb
+c:\users\afwadmin\documents\visual studio 2015\VoteSystemCsharp\GymTuto\GymTuto\bin\Debug\Guna.UI2.dll
+c:\users\afwadmin\documents\visual studio 2015\VoteSystemCsharp\GymTuto\GymTuto\obj\Debug\GymTuto.csprojResolveAssemblyReference.cache
+c:\users\afwadmin\documents\visual studio 2015\VoteSystemCsharp\GymTuto\GymTuto\obj\Debug\GymTuto.Login.resources
+c:\users\afwadmin\documents\visual studio 2015\VoteSystemCsharp\GymTuto\GymTuto\obj\Debug\GymTuto.MainForm.resources
+c:\users\afwadmin\documents\visual studio 2015\VoteSystemCsharp\GymTuto\GymTuto\obj\Debug\GymTuto.Properties.Resources.resources
+c:\users\afwadmin\documents\visual studio 2015\VoteSystemCsharp\GymTuto\GymTuto\obj\Debug\GymTuto.csproj.GenerateResource.Cache
+c:\users\afwadmin\documents\visual studio 2015\VoteSystemCsharp\GymTuto\GymTuto\obj\Debug\GymTuto.exe
+c:\users\afwadmin\documents\visual studio 2015\VoteSystemCsharp\GymTuto\GymTuto\obj\Debug\GymTuto.pdb
+c:\users\afwadmin\documents\visual studio 2015\VoteSystemCsharp\GymTuto\GymTuto\bin\Debug\Bunifu_UI_v1.52.dll
+c:\users\afwadmin\documents\visual studio 2015\VoteSystemCsharp\GymTuto\GymTuto\obj\Debug\GymTuto.AddMember.resources
+c:\users\afwadmin\documents\visual studio 2015\VoteSystemCsharp\GymTuto\GymTuto\obj\Debug\GymTuto.Payment.resources
+c:\users\afwadmin\documents\visual studio 2015\VoteSystemCsharp\GymTuto\GymTuto\obj\Debug\GymTuto.UpdateDelete.resources
+c:\users\afwadmin\documents\visual studio 2015\VoteSystemCsharp\GymTuto\GymTuto\obj\Debug\GymTuto.ViewMembers.resources
+C:\Users\misha\source\repos\GymTuto\GymTuto\bin\Debug\GymTuto.exe.config
+C:\Users\misha\source\repos\GymTuto\GymTuto\bin\Debug\GymTuto.exe
+C:\Users\misha\source\repos\GymTuto\GymTuto\bin\Debug\GymTuto.pdb
+C:\Users\misha\source\repos\GymTuto\GymTuto\obj\Debug\GymTuto.csproj.AssemblyReference.cache
+C:\Users\misha\source\repos\GymTuto\GymTuto\obj\Debug\GymTuto.AddMember.resources
+C:\Users\misha\source\repos\GymTuto\GymTuto\obj\Debug\GymTuto.Login.resources
+C:\Users\misha\source\repos\GymTuto\GymTuto\obj\Debug\GymTuto.MainForm.resources
+C:\Users\misha\source\repos\GymTuto\GymTuto\obj\Debug\GymTuto.Payment.resources
+C:\Users\misha\source\repos\GymTuto\GymTuto\obj\Debug\GymTuto.Properties.Resources.resources
+C:\Users\misha\source\repos\GymTuto\GymTuto\obj\Debug\GymTuto.UpdateDelete.resources
+C:\Users\misha\source\repos\GymTuto\GymTuto\obj\Debug\GymTuto.ViewMembers.resources
+C:\Users\misha\source\repos\GymTuto\GymTuto\obj\Debug\GymTuto.csproj.GenerateResource.cache
+C:\Users\misha\source\repos\GymTuto\GymTuto\obj\Debug\GymTuto.csproj.CoreCompileInputs.cache
+C:\Users\misha\source\repos\GymTuto\GymTuto\obj\Debug\GymTuto.csproj.CopyComplete
+C:\Users\misha\source\repos\GymTuto\GymTuto\obj\Debug\GymTuto.exe
+C:\Users\misha\source\repos\GymTuto\GymTuto\obj\Debug\GymTuto.pdb
+C:\Users\misha\source\repos\GymTuto\GymTuto\obj\Debug\GymTuto.AddBook.resources
+C:\Users\misha\Downloads\363 Гусев М. ПМ.01\GymTuto\GymTuto\bin\Debug\GymTuto.exe.config
+C:\Users\misha\Downloads\363 Гусев М. ПМ.01\GymTuto\GymTuto\bin\Debug\GymTuto.exe
+C:\Users\misha\Downloads\363 Гусев М. ПМ.01\GymTuto\GymTuto\bin\Debug\GymTuto.pdb
+C:\Users\misha\Downloads\363 Гусев М. ПМ.01\GymTuto\GymTuto\obj\Debug\GymTuto.csproj.AssemblyReference.cache
+C:\Users\misha\Downloads\363 Гусев М. ПМ.01\GymTuto\GymTuto\obj\Debug\GymTuto.csproj.SuggestedBindingRedirects.cache
+C:\Users\misha\Downloads\363 Гусев М. ПМ.01\GymTuto\GymTuto\obj\Debug\GymTuto.AddBook.resources
+C:\Users\misha\Downloads\363 Гусев М. ПМ.01\GymTuto\GymTuto\obj\Debug\GymTuto.AddMember.resources
+C:\Users\misha\Downloads\363 Гусев М. ПМ.01\GymTuto\GymTuto\obj\Debug\GymTuto.Login.resources
+C:\Users\misha\Downloads\363 Гусев М. ПМ.01\GymTuto\GymTuto\obj\Debug\GymTuto.MainForm.resources
+C:\Users\misha\Downloads\363 Гусев М. ПМ.01\GymTuto\GymTuto\obj\Debug\GymTuto.Payment.resources
+C:\Users\misha\Downloads\363 Гусев М. ПМ.01\GymTuto\GymTuto\obj\Debug\GymTuto.Properties.Resources.resources
+C:\Users\misha\Downloads\363 Гусев М. ПМ.01\GymTuto\GymTuto\obj\Debug\GymTuto.UpdateDelete.resources
+C:\Users\misha\Downloads\363 Гусев М. ПМ.01\GymTuto\GymTuto\obj\Debug\GymTuto.ViewMembers.resources
+C:\Users\misha\Downloads\363 Гусев М. ПМ.01\GymTuto\GymTuto\obj\Debug\GymTuto.csproj.GenerateResource.cache
+C:\Users\misha\Downloads\363 Гусев М. ПМ.01\GymTuto\GymTuto\obj\Debug\GymTuto.csproj.CoreCompileInputs.cache
+C:\Users\misha\Downloads\363 Гусев М. ПМ.01\GymTuto\GymTuto\obj\Debug\GymTuto.csproj.CopyComplete
+C:\Users\misha\Downloads\363 Гусев М. ПМ.01\GymTuto\GymTuto\obj\Debug\GymTuto.exe
+C:\Users\misha\Downloads\363 Гусев М. ПМ.01\GymTuto\GymTuto\obj\Debug\GymTuto.pdb
+C:\Users\misha\Desktop\Гусев М. 463\GymTuto\GymTuto\obj\Debug\GymTuto.csproj.AssemblyReference.cache
+C:\Users\misha\Desktop\Гусев М. 463\GymTuto\GymTuto\obj\Debug\GymTuto.csproj.SuggestedBindingRedirects.cache
+C:\Users\misha\Desktop\Гусев М. 463\GymTuto\GymTuto\obj\Debug\GymTuto.AddBook.resources
+C:\Users\misha\Desktop\Гусев М. 463\GymTuto\GymTuto\obj\Debug\GymTuto.AddMember.resources
+C:\Users\misha\Desktop\Гусев М. 463\GymTuto\GymTuto\obj\Debug\GymTuto.Login.resources
+C:\Users\misha\Desktop\Гусев М. 463\GymTuto\GymTuto\obj\Debug\GymTuto.MainForm.resources
+C:\Users\misha\Desktop\Гусев М. 463\GymTuto\GymTuto\obj\Debug\GymTuto.Payment.resources
+C:\Users\misha\Desktop\Гусев М. 463\GymTuto\GymTuto\obj\Debug\GymTuto.Properties.Resources.resources
+C:\Users\misha\Desktop\Гусев М. 463\GymTuto\GymTuto\obj\Debug\GymTuto.UpdateDelete.resources
+C:\Users\misha\Desktop\Гусев М. 463\GymTuto\GymTuto\obj\Debug\GymTuto.ViewMembers.resources
+C:\Users\misha\Desktop\Гусев М. 463\GymTuto\GymTuto\obj\Debug\GymTuto.csproj.GenerateResource.cache
+C:\Users\misha\Desktop\Гусев М. 463\GymTuto\GymTuto\obj\Debug\GymTuto.csproj.CoreCompileInputs.cache
+C:\Users\misha\Desktop\Гусев М. 463\GymTuto\GymTuto\obj\Debug\GymTuto.exe
+C:\Users\misha\Desktop\Гусев М. 463\GymTuto\GymTuto\obj\Debug\GymTuto.pdb
+C:\Users\misha\Desktop\Гусев М. 463\GymTuto\GymTuto\bin\Debug\GymTuto.exe.config
+C:\Users\misha\Desktop\Гусев М. 463\GymTuto\GymTuto\bin\Debug\GymTuto.exe
+C:\Users\misha\Desktop\Гусев М. 463\GymTuto\GymTuto\bin\Debug\GymTuto.pdb
+C:\Users\misha\Desktop\Гусев М. 463\GymTuto\GymTuto\obj\Debug\GymTuto.csproj.CopyComplete
+C:\Users\misha\Desktop\Новая папка (2)\Гусев М. 463\GymTuto\GymTuto\bin\Debug\GymTuto.exe.config
+C:\Users\misha\Desktop\Новая папка (2)\Гусев М. 463\GymTuto\GymTuto\bin\Debug\GymTuto.exe
+C:\Users\misha\Desktop\Новая папка (2)\Гусев М. 463\GymTuto\GymTuto\bin\Debug\GymTuto.pdb
+C:\Users\misha\Desktop\Новая папка (2)\Гусев М. 463\GymTuto\GymTuto\obj\Debug\GymTuto.csproj.AssemblyReference.cache
+C:\Users\misha\Desktop\Новая папка (2)\Гусев М. 463\GymTuto\GymTuto\obj\Debug\GymTuto.csproj.SuggestedBindingRedirects.cache
+C:\Users\misha\Desktop\Новая папка (2)\Гусев М. 463\GymTuto\GymTuto\obj\Debug\GymTuto.AddBook.resources
+C:\Users\misha\Desktop\Новая папка (2)\Гусев М. 463\GymTuto\GymTuto\obj\Debug\GymTuto.AddMember.resources
+C:\Users\misha\Desktop\Новая папка (2)\Гусев М. 463\GymTuto\GymTuto\obj\Debug\GymTuto.Login.resources
+C:\Users\misha\Desktop\Новая папка (2)\Гусев М. 463\GymTuto\GymTuto\obj\Debug\GymTuto.MainForm.resources
+C:\Users\misha\Desktop\Новая папка (2)\Гусев М. 463\GymTuto\GymTuto\obj\Debug\GymTuto.Payment.resources
+C:\Users\misha\Desktop\Новая папка (2)\Гусев М. 463\GymTuto\GymTuto\obj\Debug\GymTuto.Properties.Resources.resources
+C:\Users\misha\Desktop\Новая папка (2)\Гусев М. 463\GymTuto\GymTuto\obj\Debug\GymTuto.UpdateDelete.resources
+C:\Users\misha\Desktop\Новая папка (2)\Гусев М. 463\GymTuto\GymTuto\obj\Debug\GymTuto.ViewMembers.resources
+C:\Users\misha\Desktop\Новая папка (2)\Гусев М. 463\GymTuto\GymTuto\obj\Debug\GymTuto.csproj.GenerateResource.cache
+C:\Users\misha\Desktop\Новая папка (2)\Гусев М. 463\GymTuto\GymTuto\obj\Debug\GymTuto.csproj.CoreCompileInputs.cache
+C:\Users\misha\Desktop\Новая папка (2)\Гусев М. 463\GymTuto\GymTuto\obj\Debug\GymTuto.csproj.CopyComplete
+C:\Users\misha\Desktop\Новая папка (2)\Гусев М. 463\GymTuto\GymTuto\obj\Debug\GymTuto.exe
+C:\Users\misha\Desktop\Новая папка (2)\Гусев М. 463\GymTuto\GymTuto\obj\Debug\GymTuto.pdb
+C:\Users\misha\Desktop\Новая папка (4)\Гусев М. 463\GymTuto\GymTuto\bin\Debug\GymTuto.exe.config
+C:\Users\misha\Desktop\Новая папка (4)\Гусев М. 463\GymTuto\GymTuto\bin\Debug\GymTuto.exe
+C:\Users\misha\Desktop\Новая папка (4)\Гусев М. 463\GymTuto\GymTuto\bin\Debug\GymTuto.pdb
+C:\Users\misha\Desktop\Новая папка (4)\Гусев М. 463\GymTuto\GymTuto\obj\Debug\GymTuto.csproj.AssemblyReference.cache
+C:\Users\misha\Desktop\Новая папка (4)\Гусев М. 463\GymTuto\GymTuto\obj\Debug\GymTuto.csproj.SuggestedBindingRedirects.cache
+C:\Users\misha\Desktop\Новая папка (4)\Гусев М. 463\GymTuto\GymTuto\obj\Debug\GymTuto.AddMember.resources
+C:\Users\misha\Desktop\Новая папка (4)\Гусев М. 463\GymTuto\GymTuto\obj\Debug\GymTuto.Login.resources
+C:\Users\misha\Desktop\Новая папка (4)\Гусев М. 463\GymTuto\GymTuto\obj\Debug\GymTuto.MainForm.resources
+C:\Users\misha\Desktop\Новая папка (4)\Гусев М. 463\GymTuto\GymTuto\obj\Debug\GymTuto.Properties.Resources.resources
+C:\Users\misha\Desktop\Новая папка (4)\Гусев М. 463\GymTuto\GymTuto\obj\Debug\GymTuto.UpdateDelete.resources
+C:\Users\misha\Desktop\Новая папка (4)\Гусев М. 463\GymTuto\GymTuto\obj\Debug\GymTuto.ViewMembers.resources
+C:\Users\misha\Desktop\Новая папка (4)\Гусев М. 463\GymTuto\GymTuto\obj\Debug\GymTuto.csproj.GenerateResource.cache
+C:\Users\misha\Desktop\Новая папка (4)\Гусев М. 463\GymTuto\GymTuto\obj\Debug\GymTuto.csproj.CoreCompileInputs.cache
+C:\Users\misha\Desktop\Новая папка (4)\Гусев М. 463\GymTuto\GymTuto\obj\Debug\GymTuto.csproj.CopyComplete
+C:\Users\misha\Desktop\Новая папка (4)\Гусев М. 463\GymTuto\GymTuto\obj\Debug\GymTuto.exe
+C:\Users\misha\Desktop\Новая папка (4)\Гусев М. 463\GymTuto\GymTuto\obj\Debug\GymTuto.pdb
+C:\Users\misha\Desktop\Новая папка (4)\Гусев М. 463\GymTuto\GymTuto\obj\Debug\GymTuto.PriceList.resources
+C:\Users\misha\Desktop\Новая папка (4)\Гусев М. 463\GymTuto\GymTuto\obj\Debug\GymTuto.AddTrainer.resources
+C:\Users\misha\Desktop\Новая папка (5)\Гусев М. 463\GymTuto\GymTuto\bin\Debug\GymTuto.exe.config
+C:\Users\misha\Desktop\Новая папка (5)\Гусев М. 463\GymTuto\GymTuto\bin\Debug\GymTuto.exe
+C:\Users\misha\Desktop\Новая папка (5)\Гусев М. 463\GymTuto\GymTuto\bin\Debug\GymTuto.pdb
+C:\Users\misha\Desktop\Новая папка (5)\Гусев М. 463\GymTuto\GymTuto\obj\Debug\GymTuto.csproj.AssemblyReference.cache
+C:\Users\misha\Desktop\Новая папка (5)\Гусев М. 463\GymTuto\GymTuto\obj\Debug\GymTuto.csproj.SuggestedBindingRedirects.cache
+C:\Users\misha\Desktop\Новая папка (5)\Гусев М. 463\GymTuto\GymTuto\obj\Debug\GymTuto.AddMember.resources
+C:\Users\misha\Desktop\Новая папка (5)\Гусев М. 463\GymTuto\GymTuto\obj\Debug\GymTuto.AddTrainer.resources
+C:\Users\misha\Desktop\Новая папка (5)\Гусев М. 463\GymTuto\GymTuto\obj\Debug\GymTuto.Login.resources
+C:\Users\misha\Desktop\Новая папка (5)\Гусев М. 463\GymTuto\GymTuto\obj\Debug\GymTuto.MainForm.resources
+C:\Users\misha\Desktop\Новая папка (5)\Гусев М. 463\GymTuto\GymTuto\obj\Debug\GymTuto.PriceList.resources
+C:\Users\misha\Desktop\Новая папка (5)\Гусев М. 463\GymTuto\GymTuto\obj\Debug\GymTuto.Properties.Resources.resources
+C:\Users\misha\Desktop\Новая папка (5)\Гусев М. 463\GymTuto\GymTuto\obj\Debug\GymTuto.UpdateDelete.resources
+C:\Users\misha\Desktop\Новая папка (5)\Гусев М. 463\GymTuto\GymTuto\obj\Debug\GymTuto.ViewMembers.resources
+C:\Users\misha\Desktop\Новая папка (5)\Гусев М. 463\GymTuto\GymTuto\obj\Debug\GymTuto.csproj.GenerateResource.cache
+C:\Users\misha\Desktop\Новая папка (5)\Гусев М. 463\GymTuto\GymTuto\obj\Debug\GymTuto.csproj.CoreCompileInputs.cache
+C:\Users\misha\Desktop\Новая папка (5)\Гусев М. 463\GymTuto\GymTuto\obj\Debug\GymTuto.csproj.CopyComplete
+C:\Users\misha\Desktop\Новая папка (5)\Гусев М. 463\GymTuto\GymTuto\obj\Debug\GymTuto.exe
+C:\Users\misha\Desktop\Новая папка (5)\Гусев М. 463\GymTuto\GymTuto\obj\Debug\GymTuto.pdb
+G:\Новая папка (5)\Гусев М. 463\GymTuto\GymTuto\bin\Debug\GymTuto.exe.config
+G:\Новая папка (5)\Гусев М. 463\GymTuto\GymTuto\bin\Debug\GymTuto.exe
+G:\Новая папка (5)\Гусев М. 463\GymTuto\GymTuto\bin\Debug\GymTuto.pdb
+G:\Новая папка (5)\Гусев М. 463\GymTuto\GymTuto\obj\Debug\GymTuto.csproj.AssemblyReference.cache
+G:\Новая папка (5)\Гусев М. 463\GymTuto\GymTuto\obj\Debug\GymTuto.AddMember.resources
+G:\Новая папка (5)\Гусев М. 463\GymTuto\GymTuto\obj\Debug\GymTuto.AddTrainer.resources
+G:\Новая папка (5)\Гусев М. 463\GymTuto\GymTuto\obj\Debug\GymTuto.Login.resources
+G:\Новая папка (5)\Гусев М. 463\GymTuto\GymTuto\obj\Debug\GymTuto.MainForm.resources
+G:\Новая папка (5)\Гусев М. 463\GymTuto\GymTuto\obj\Debug\GymTuto.PriceList.resources
+G:\Новая папка (5)\Гусев М. 463\GymTuto\GymTuto\obj\Debug\GymTuto.Properties.Resources.resources
+G:\Новая папка (5)\Гусев М. 463\GymTuto\GymTuto\obj\Debug\GymTuto.UpdateDelete.resources
+G:\Новая папка (5)\Гусев М. 463\GymTuto\GymTuto\obj\Debug\GymTuto.ViewMembers.resources
+G:\Новая папка (5)\Гусев М. 463\GymTuto\GymTuto\obj\Debug\GymTuto.csproj.GenerateResource.cache
+G:\Новая папка (5)\Гусев М. 463\GymTuto\GymTuto\obj\Debug\GymTuto.csproj.CoreCompileInputs.cache
+G:\Новая папка (5)\Гусев М. 463\GymTuto\GymTuto\obj\Debug\GymTuto.csproj.CopyComplete
+G:\Новая папка (5)\Гусев М. 463\GymTuto\GymTuto\obj\Debug\GymTuto.exe
+G:\Новая папка (5)\Гусев М. 463\GymTuto\GymTuto\obj\Debug\GymTuto.pdb
+C:\Users\misha\Desktop\Новая папка gm\Гусев М. 463\GymTuto\GymTuto\bin\Debug\GymTuto.exe.config
+C:\Users\misha\Desktop\Новая папка gm\Гусев М. 463\GymTuto\GymTuto\bin\Debug\GymTuto.exe
+C:\Users\misha\Desktop\Новая папка gm\Гусев М. 463\GymTuto\GymTuto\bin\Debug\GymTuto.pdb
+C:\Users\misha\Desktop\Новая папка gm\Гусев М. 463\GymTuto\GymTuto\obj\Debug\GymTuto.csproj.AssemblyReference.cache
+C:\Users\misha\Desktop\Новая папка gm\Гусев М. 463\GymTuto\GymTuto\obj\Debug\GymTuto.csproj.SuggestedBindingRedirects.cache
+C:\Users\misha\Desktop\Новая папка gm\Гусев М. 463\GymTuto\GymTuto\obj\Debug\GymTuto.AddMember.resources
+C:\Users\misha\Desktop\Новая папка gm\Гусев М. 463\GymTuto\GymTuto\obj\Debug\GymTuto.AddTrainer.resources
+C:\Users\misha\Desktop\Новая папка gm\Гусев М. 463\GymTuto\GymTuto\obj\Debug\GymTuto.Login.resources
+C:\Users\misha\Desktop\Новая папка gm\Гусев М. 463\GymTuto\GymTuto\obj\Debug\GymTuto.MainForm.resources
+C:\Users\misha\Desktop\Новая папка gm\Гусев М. 463\GymTuto\GymTuto\obj\Debug\GymTuto.PriceList.resources
+C:\Users\misha\Desktop\Новая папка gm\Гусев М. 463\GymTuto\GymTuto\obj\Debug\GymTuto.Properties.Resources.resources
+C:\Users\misha\Desktop\Новая папка gm\Гусев М. 463\GymTuto\GymTuto\obj\Debug\GymTuto.ViewMembers.resources
+C:\Users\misha\Desktop\Новая папка gm\Гусев М. 463\GymTuto\GymTuto\obj\Debug\GymTuto.csproj.GenerateResource.cache
+C:\Users\misha\Desktop\Новая папка gm\Гусев М. 463\GymTuto\GymTuto\obj\Debug\GymTuto.csproj.CoreCompileInputs.cache
+C:\Users\misha\Desktop\Новая папка gm\Гусев М. 463\GymTuto\GymTuto\obj\Debug\GymTuto.csproj.CopyComplete
+C:\Users\misha\Desktop\Новая папка gm\Гусев М. 463\GymTuto\GymTuto\obj\Debug\GymTuto.exe
+C:\Users\misha\Desktop\Новая папка gm\Гусев М. 463\GymTuto\GymTuto\obj\Debug\GymTuto.pdb
+C:\Users\misha\Desktop\Новая папка gm\Гусев М. 463\GymTuto\GymTuto\obj\Debug\GymTuto.MemList.resources
+C:\Users\misha\Desktop\Новая папка gm\Гусев М. 463\GymTuto\GymTuto\obj\Debug\GymTuto.AddClient.resources
+C:\Users\misha\Desktop\Новая папка gm\Гусев М. 463\GymTuto\GymTuto\bin\Debug\Guna.UI2.dll
+C:\Users\misha\Downloads\Новая сжатая ZIP-папка2\Новая папка gm\Гусев М. 463\GymTuto\GymTuto\bin\Debug\GymTuto.exe.config
+C:\Users\misha\Downloads\Новая сжатая ZIP-папка2\Новая папка gm\Гусев М. 463\GymTuto\GymTuto\bin\Debug\GymTuto.exe
+C:\Users\misha\Downloads\Новая сжатая ZIP-папка2\Новая папка gm\Гусев М. 463\GymTuto\GymTuto\bin\Debug\GymTuto.pdb
+C:\Users\misha\Downloads\Новая сжатая ZIP-папка2\Новая папка gm\Гусев М. 463\GymTuto\GymTuto\bin\Debug\Guna.UI2.dll
+C:\Users\misha\Downloads\Новая сжатая ZIP-папка2\Новая папка gm\Гусев М. 463\GymTuto\GymTuto\obj\Debug\GymTuto.csproj.AssemblyReference.cache
+C:\Users\misha\Downloads\Новая сжатая ZIP-папка2\Новая папка gm\Гусев М. 463\GymTuto\GymTuto\obj\Debug\GymTuto.csproj.SuggestedBindingRedirects.cache
+C:\Users\misha\Downloads\Новая сжатая ZIP-папка2\Новая папка gm\Гусев М. 463\GymTuto\GymTuto\obj\Debug\GymTuto.AddClient.resources
+C:\Users\misha\Downloads\Новая сжатая ZIP-папка2\Новая папка gm\Гусев М. 463\GymTuto\GymTuto\obj\Debug\GymTuto.AddMember.resources
+C:\Users\misha\Downloads\Новая сжатая ZIP-папка2\Новая папка gm\Гусев М. 463\GymTuto\GymTuto\obj\Debug\GymTuto.AddTrainer.resources
+C:\Users\misha\Downloads\Новая сжатая ZIP-папка2\Новая папка gm\Гусев М. 463\GymTuto\GymTuto\obj\Debug\GymTuto.Login.resources
+C:\Users\misha\Downloads\Новая сжатая ZIP-папка2\Новая папка gm\Гусев М. 463\GymTuto\GymTuto\obj\Debug\GymTuto.MainForm.resources
+C:\Users\misha\Downloads\Новая сжатая ZIP-папка2\Новая папка gm\Гусев М. 463\GymTuto\GymTuto\obj\Debug\GymTuto.PriceList.resources
+C:\Users\misha\Downloads\Новая сжатая ZIP-папка2\Новая папка gm\Гусев М. 463\GymTuto\GymTuto\obj\Debug\GymTuto.Properties.Resources.resources
+C:\Users\misha\Downloads\Новая сжатая ZIP-папка2\Новая папка gm\Гусев М. 463\GymTuto\GymTuto\obj\Debug\GymTuto.MemList.resources
+C:\Users\misha\Downloads\Новая сжатая ZIP-папка2\Новая папка gm\Гусев М. 463\GymTuto\GymTuto\obj\Debug\GymTuto.ViewMembers.resources
+C:\Users\misha\Downloads\Новая сжатая ZIP-папка2\Новая папка gm\Гусев М. 463\GymTuto\GymTuto\obj\Debug\GymTuto.csproj.GenerateResource.cache
+C:\Users\misha\Downloads\Новая сжатая ZIP-папка2\Новая папка gm\Гусев М. 463\GymTuto\GymTuto\obj\Debug\GymTuto.csproj.CoreCompileInputs.cache
+C:\Users\misha\Downloads\Новая сжатая ZIP-папка2\Новая папка gm\Гусев М. 463\GymTuto\GymTuto\obj\Debug\GymTuto.csproj.CopyComplete
+C:\Users\misha\Downloads\Новая сжатая ZIP-папка2\Новая папка gm\Гусев М. 463\GymTuto\GymTuto\obj\Debug\GymTuto.exe
+C:\Users\misha\Downloads\Новая сжатая ZIP-папка2\Новая папка gm\Гусев М. 463\GymTuto\GymTuto\obj\Debug\GymTuto.pdb
